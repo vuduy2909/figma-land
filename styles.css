@@ -26,6 +26,7 @@ a{
 a:hover{
     color: #2091F9;
     text-decoration:underline;
+    font-weight:bold;
 }
 .background{
     width: 100%;
