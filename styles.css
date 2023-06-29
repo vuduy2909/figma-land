@@ -19,9 +19,11 @@ nav{
     display: flex;
     justify-content:center;
     align-items: center;
+    margin-left: 100px;
 }
 a{
     color: #ffffff;
+    
 }
 a:hover{
     color: #2091F9;
@@ -39,15 +41,11 @@ a:hover{
 ul{
     width: 437px;
     height: 48px;
-    top: 53.5px;
-    left: 40px;
-    right: 733px;
-    bottom: 54.5px;
     padding: 0px;
     margin: 0px;
     display: inline-flex;
     align-items: center;
-    gap: 21px;
+    justify-content: space-between;
 }
 li{
     width: 43px;
@@ -63,7 +61,7 @@ li{
     width: 186px;
     height: 58px;
     padding: 10px 30px;
-    margin-right: 120px;
+    margin-right: 180px;
 }
 .social-media{
     color: #ffffff;
@@ -83,13 +81,14 @@ li{
 .hero3{
     position: absolute;
     top: 80px;
-    width: 1440px;
+    width: 100%;
     height: 725px;
     display: flex;
     align-items: center;
     flex-direction: column;
     gap: 40px;
     padding: 80px 0px;
+    
 }
 h1{
     width: 672px;
