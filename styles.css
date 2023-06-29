@@ -1,44 +1,48 @@
-*{
+* {
     width: 100%;
     height: 100%;
     outline: none;
     border: none;
-    margin:0;
+    margin: 0;
     text-decoration: none;
     font-family: 'Graphik Trial', sans-serif;
 }
 
-header{
+header {
     letter-spacing: 0.2px;
 }
-nav{
+
+nav {
     position: absolute;
     top: 0px;
     width: 1210px;
     height: 156px;
     display: flex;
-    justify-content:center;
+    justify-content: center;
     align-items: center;
     margin-left: 100px;
 }
-a{
+
+a {
     color: #ffffff;
-    
+
 }
-a:hover{
+
+a:hover {
     color: #2091F9;
-    text-decoration:underline;
-    font-weight:bold;
+    text-decoration: underline;
+    font-weight: bold;
 }
-.background{
+
+.background {
     width: 100%;
 
-    color:#222B32;
-    background-size:cover;
+    color: #222B32;
+    background-size: cover;
     box-sizing: border-box;
 }
 
-ul{
+.navbar {
     width: 437px;
     height: 48px;
     padding: 0px;
@@ -47,23 +51,26 @@ ul{
     align-items: center;
     justify-content: space-between;
 }
-li{
+
+li {
     width: 43px;
     height: 28px;
-    list-style: none; 
+    list-style: none;
     color: #ffffff;
-   padding: 10px;
-   font-size: 15px;
+    padding: 10px;
+    font-size: 15px;
 
 }
-.logo{
+
+.logo {
 
     width: 186px;
     height: 58px;
     padding: 10px 30px;
     margin-right: 180px;
 }
-.social-media{
+
+.social-media {
     color: #ffffff;
     display: flex;
     width: 41px;
@@ -74,11 +81,13 @@ li{
     right: 40px;
     bottom: 58.51px;
 }
-.action{
-     width: 41px;
+
+.action {
+    width: 41px;
     height: 41px;
 }
-.hero3{
+
+.hero3 {
     position: absolute;
     top: 80px;
     width: 100%;
@@ -88,20 +97,21 @@ li{
     flex-direction: column;
     gap: 40px;
     padding: 80px 0px;
-    
+
 }
-h1{
+
+h1 {
     width: 672px;
     height: 168px;
     padding: 10px;
     font-size: 74px;
     line-height: 84px;
-    color:#ffffff;
+    color: #ffffff;
     margin: 0px;
     text-align: center;
 }
 
-h4{
+h4 {
     color: #ffffff;
     text-align: center;
     width: 766px;
@@ -110,18 +120,20 @@ h4{
     font-size: 28px;
     font-weight: 400;
     line-height: 40px;
-    margin:0px;
+    margin: 0px;
 
 }
-.content{ 
+
+.content {
     width: 786px;
     height: 295px;
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 7px;
-    }
-button{
+}
+
+button {
     display: flex;
     width: 236px;
     height: 52px;
@@ -136,8 +148,9 @@ button{
     font-size: 20px;
     line-height: 20px;
 }
-button:hover{
+
+button:hover {
     cursor: pointer;
-    background: linear-gradient(356deg, rgba(255,255,255,1) 0%, rgba(109,213,250,1) 35%, rgba(32,145,249,1) 100%);
+    background: linear-gradient(356deg, rgba(255, 255, 255, 1) 0%, rgba(109, 213, 250, 1) 35%, rgba(32, 145, 249, 1) 100%);
 
 }
