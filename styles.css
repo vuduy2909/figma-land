@@ -349,6 +349,11 @@ button:hover {
     background: linear-gradient(356deg, rgba(255, 255, 255, 1) 0%, rgba(109, 213, 250, 1) 35%, rgba(32, 145, 249, 1) 100%);
 
 }
+
+
+
+
+
 footer {
   background-color: #252B42;
   width: 100%;
@@ -383,10 +388,7 @@ footer {
   padding: 10px 0px;
 }
 
-p {
-  width: 157px;
-  height: 179px;
-}
+
 
 .page,
 .tomothy,
