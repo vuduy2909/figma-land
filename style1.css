@@ -1,0 +1,389 @@
+
+
+
+
+
+
+.lightCTA4 {
+    display: flex;
+    width: 1440px;
+    height: 725px ;
+    padding: 43px 0px;
+    flex-direction: column;
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px none;
+    min-width: 1440px;
+    padding: 43px 0px;
+    position: relative;
+    
+    
+  }
+.content1{
+  display: flex;
+  width: 1538.233px;
+height: 638px;
+padding: 0px 50px;
+align-items: flex-start;
+gap: 50px;
+}
+  
+  .background-content {
+    height: 1px;
+    align-self: stretch;
+  }
+  .left-container {
+    display: flex;
+    height: 532px;
+    align-items: center;
+    margin-left: 150px;
+    width: 854px;
+  }
+  .right-container {
+    display: flex;
+    width: 544px;
+    padding: 0px 63px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    height: auto;
+  }
+  .screen-content1{
+    display: flex;
+width: 854.233px;
+flex-direction: column;
+align-items: flex-end;
+gap: 47.457px;
+  }
+  .BlueMan{
+    height: 514px;
+    min-width: 677px;
+    position: relative;
+  }
+    
+  
+  .padding-top{
+    height: 106px;
+    margin-left : -64px;
+    margin-right: -64px;
+    min-width: 546px;
+    position: relative;
+  }
+  
+  .text-content1 {
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 7px;
+  }
+  
+ 
+  .lightning-fast-prototyping {
+    color: var(--text, #252B42);
+     
+/* H2 */
+font-size: 48px;
+font-family: 'Graphik'  ;
+font-style: normal;
+font-weight: 400;
+line-height: 55px;
+letter-spacing: 0.2px;
+margin-top: -0.1px;
+  }
+  .action-content {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap:13px;
+    margin-right: -59px;
+    position: relative;
+    width : fit-content
+  }
+  .desktop-newsletter{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    position: relative;
+    width: fit-content;
+  }
+  .available{
+    color : #374754;
+    font-family: Graphik;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    line-height: 25px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  .Subcribe-to-our-Newsletter {
+    color:rgba(37,43,66,1);
+    font-family: Graphik;
+    font-size:20px;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .mailing-input-2{
+    align-items: center;
+    display: flex;
+    gap: 12px;
+    pad: 34px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  .input{
+    align-items: flex-start;
+    background-color: #f4f4f4;
+    border:   1px solid;
+    border-color: #e8e8e8;
+    border-radius: 39px;
+    flex-direction: column;
+    gap: 64px;
+    overflow: hidden;
+    padding: 19px 39px;
+    position: relative;
+    width: 200px;
+  }
+  .your-email {
+    color:#18171d;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 0.1px;
+    line-height: 16px;
+    
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap ;
+    width: fit-content;
+  }
+  .master-button{
+    align-items: center;
+    background-color:var(--primary,#2090f8);
+    border-radius: 35px;
+    border-color: #e8e8e8;
+    color: #ffffff;
+    flex-direction: column;
+    gap:10px;
+    overflow: hidden;
+    padding: 19px 38px;
+    font-weight: 700;
+    width: fit-content;
+    margin-bottom: 80px;
+    margin-top: 80px;
+    display: flex;
+    position: relative;
+    margin-left: 700px;
+    
+    
+  }
+  
+  
+  .subcribe {
+   display: flex;
+   align-items: center;
+   gap: 10px;
+  }
+  .text-paragraphe{
+    align-items: center;
+    gap:10px;
+  }
+  .ourgraphik{
+  color: var(--text, #252B42);
+
+/* H3 */
+  font-size: 20px;
+  font-family: Graphik;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0.1px;
+  }
+ .light2 {
+  display: flex;
+width: 1440px;
+flex-direction: column;
+align-items: flex-start;
+ }
+ .content2{
+  display: flex;
+  padding: 80px 0px;
+  flex-direction: column;
+  align-items: center;
+  gap: 80px;
+  align-self: stretch;
+  border: 1px none;
+  min-width: 1440px;
+  position: relative;
+  
+ }
+ .content2 {
+  align-items: center;
+  display: flex;
+  position: relative;
+  width: fit-content;
+ }
+ .text-content2{
+ 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 7px;
+  margin-left: 550px;
+  margin-bottom: 80px;
+  
+ }
+ .h3-text-content2{
+  display: flex;
+width: 175px;
+height: 33px;
+align-items: flex-start;
+}
+.partner{
+  color: var(--text, #252B42);
+text-align: center;
+
+/* H2 */
+font-size: 48px;
+font-family: Graphik;
+font-style: normal;
+font-weight: 400;
+line-height: 55px;
+letter-spacing: 0.2px;
+}
+.most-calendar {color: var(--second-text, #374754);
+  text-align: center;
+  
+  /* H4 */
+  font-size: 28px;
+  font-family: Graphik;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0.2px;}
+  .item{
+    display: flex;
+flex-direction: column;
+align-items: center;
+margin-left: 250px;
+
+
+  }
+  .row-2{
+    align-items:center;
+    display: flex;
+    position: relative;
+    width: fit-content;
+  }
+  .h6-8{
+    align-items: center;
+    display: flex;
+    position: relative;
+    width: fit-content;
+  }
+  .partner-style-2{
+    display: flex;
+padding: 31px 40px;
+flex-direction: column;
+align-items: center;
+gap: 15px;
+border: 1px solid #D8D8D8;
+background: var(--light-background, #FFF);
+  }
+  .client-name {
+    color: var(--second-text, #374754);
+
+/* H5 */
+font-size: 16px;
+font-family: Graphik;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0.1px;
+  }
+  .logogoogle{
+    width: 193px;
+height: 63px;
+position: relative;
+  }
+  .partner-style-2-1{
+    display: flex;
+width: 273px;
+padding: 32px 40px;
+flex-direction: column;
+align-items: center;
+gap: 15px;
+border: 1px solid #D8D8D8;
+background: var(--light-background, #FFF);
+  }
+  .amazon {
+    width: 193px;
+height: 58.135px;
+background:  lightgray 50% / contain no-repeat;
+  }
+  .microsoft{
+    width: 221.544px;
+height: 77px;
+position: relative;
+  }
+  .uber{
+    width: 140px;
+height: 77px;
+position: relative;
+  }
+  .dropbox{
+    width: 229px;
+height: 46px;position: relative;
+  }
+.content2 partner-style-2-4 {
+  
+padding: 25px 40px;
+flex-direction: column;
+align-items: center;
+background: var(--light-background, #FFF);
+border: 1px solid #D8D8D8;
+border-color: var(--iron);
+display: flex;
+gap: 15px;
+position: relative;
+
+
+}
+.partner-style-2-2 {
+  padding: 25px 40px;
+  width: fit-content;
+}
+.partner-style-2-3{
+  padding: 40px;
+  width: fit-content;
+}
+.Subcribe-button{
+  display: flex;
+  padding: 19px 38px;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  border-radius: 35px;
+background: var(--primary, #2091F9);
+
+
+
+background-color:var(--primary,#2090f8);
+
+border-color: #e8e8e8;
+color: #ffffff;
+
+
+overflow: hidden;
+
+font-weight: 700;
+width: fit-content;
+
+
+position: relative;
+
+}
+
+  
