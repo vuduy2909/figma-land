@@ -16,6 +16,7 @@
     min-width: 1440px;
     padding: 43px 0px;
     position: relative;
+    scroll-margin-top: 50px;
     
     
   }
@@ -35,9 +36,10 @@ gap: 50px;
   .left-container {
     display: flex;
     height: 532px;
+    
     align-items: center;
     margin-left: 150px;
-    width: 854px;
+    
   }
   .right-container {
     display: flex;
@@ -46,7 +48,18 @@ gap: 50px;
     flex-direction: column;
     align-items: flex-start;
     gap: 15px;
-    height: auto;
+    overflow: hidden;
+    
+   
+   margin-left: 1100px;
+   margin-top: -600px;
+   
+
+    
+    
+    
+   
+    
   }
   .screen-content1{
     display: flex;
@@ -68,13 +81,15 @@ gap: 47.457px;
     margin-right: -64px;
     min-width: 546px;
     position: relative;
+    display: block;
   }
   
   .text-content1 {
     display: flex;
-flex-direction: column;
-align-items: flex-start;
-gap: 7px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 7px;
+    display: block;
   }
   
  
